@@ -3,6 +3,7 @@
   "short_name": "Riddler",
   "description": "Kreuzworträtsel und Schwedenrätsel erzeugen, am Bildschirm lösen oder drucken – komplett offline.",
   "lang": "de",
+  "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
